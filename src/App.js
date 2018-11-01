@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import ToDoPage from './Components/toDoPage';
 
-class Container extends Component {
+class App extends Component {
   render() {
     return (
       <div className="App">
@@ -15,4 +15,4 @@ class Container extends Component {
   }
 }
 
-export default Container;
+export default App;
