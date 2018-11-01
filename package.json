@@ -2,9 +2,9 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Rivas48.github.io/To-Do-List",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "homepage": "http://Rivas48.github.io/To-Do-List",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
